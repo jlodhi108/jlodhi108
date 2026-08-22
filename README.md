@@ -9,11 +9,6 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jlodhi108&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" height="165"/>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jlodhi108&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jlodhi108&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
