@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jlodhi108&theme=tokyo-night&hide_border=true&area=true&border_radius=10" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jlodhi108&bg_color=1a1b27&color=c0caf5&line=7aa2f7&point=c0caf5&area_color=7aa2f7&title_color=7aa2f7&hide_border=true&area=true&radius=10&days=60&custom_title=Jitendra%27s%20Activity" width="95%"/>
 </p>
 
 <div align="center">
