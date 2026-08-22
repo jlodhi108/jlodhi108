@@ -1,24 +1,30 @@
-# I am Jitendra
+<div align="center">
 
-IIT Kanpur '25
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:24283b&height=180&section=header&text=I%20am%20Jitendra&fontSize=48&fontColor=7aa2f7&animation=fadeIn&fontAlignY=42&desc=IIT%20Kanpur%20'25&descAlignY=62&descSize=20&descColor=c0caf5" />
+
+</div>
 
 <br/>
 
-## GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jlodhi108&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlodhi108&layout=compact&theme=dark&hide_border=true" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jlodhi108&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jlodhi108&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jlodhi108&theme=dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jlodhi108&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jlodhi108&theme=react-dark&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jlodhi108&theme=tokyo-night&hide_border=true&area=true&border_radius=10" width="95%"/>
 </p>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/jlodhi108/jlodhi108/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/jlodhi108/jlodhi108/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24283b,100:1a1b27&height=100&section=footer" />
